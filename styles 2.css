@@ -1,0 +1,42 @@
+body {
+    font-size: 24px;
+}
+.red {
+    color: red;
+}
+.bold {
+    font-weight: bold;
+}
+.blueviolet {
+    color: blueviolet;
+}
+.salmon {
+    color: salmon;
+}
+.teal {
+    color: teal;
+}
+.darkred {
+    color: darkred;
+}
+.xxlarge {
+    font-size: 50px;
+}
+.xlarge {
+    font-size: 40px;
+}
+.large {
+    font-size: 30px;
+}
+.medium {
+    font-size: 25px;
+}
+.small {
+    font-size: 20px;
+}
+.xsmall {
+    font-size: 15px;
+}
+.xxsmall {
+    font-size: 10px;
+}
